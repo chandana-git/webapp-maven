@@ -129,7 +129,7 @@
 						<p><script>generateText(2)</script></p>
 					</div>	
 					<div class="column">
-						<h2><span>Heading</span></h2>
+						<h2><span>------ Heading -----</span></h2>
 						<p><script>generateText(2)</script></p>
 					</div>
 					<div class="column">
